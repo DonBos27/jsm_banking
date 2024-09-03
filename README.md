@@ -1,5 +1,5 @@
 ## Learning Next JS 
-I am watching rn from [` youtube `] (https://www.youtube.com/watch?v=DwbwuYYiBTk)
+I am watching rn from [` youtube `](https://www.youtube.com/watch?v=DwbwuYYiBTk)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
